@@ -1,0 +1,21 @@
+{
+  "name": "dino-twitter",
+  "description": "",
+  "main": "gulpfile.js",
+  "authors": [
+    "ashleyraymaceli <ashley.maceli@gmail.com>"
+  ],
+  "license": "ISC",
+  "homepage": "https://github.com/AshleyRayMaceli/JS-template",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "^2.2.4",
+    "bootstrap": "^3.3.6"
+  }
+}
